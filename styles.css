@@ -14,7 +14,7 @@
 }
 
 .body{
-    background-color: rgb(90, 92, 92);
+    background-color: rgb(47, 199, 238);
 }
 
 .footer{
@@ -26,7 +26,7 @@
 }
 
 .nb-background-color{   /* navbar background color */
-    background-color: #023E8A;
+    background-color: #29b4e6;
 }
 
 .nbMenuItem{               /* navbar link text properties */
@@ -82,3 +82,4 @@
     transform: scaleX(1);
     /*transform-origin: bottom left;*/
 }
+
