@@ -5,20 +5,24 @@
     margin: auto;
 }
 
+.procedure-images {
+    max-width: 200px;
+    display: relative;
+}
 .about-team{
-    color:rgb(82, 81, 81)
+    color:#B4D4FF;
 }
 
 .authors{
-    background-color: #dbe3e7;
+    background-color: #6A9AB0;
 }
 
 .body{
-    background-color: rgb(47, 199, 238);
+    background-color: #194764;
 }
 
 .footer{
-    background-color: #023E8A;
+    background-color: #176B87;
 }
 
 .icon-white{            /* Arrow icon at bottom of page */
@@ -26,7 +30,15 @@
 }
 
 .nb-background-color{   /* navbar background color */
-    background-color: #29b4e6;
+    background-color: #176B87;
+}
+
+.nav-link{ /* authors procedure results color */
+    color:#FFECD1;
+}
+
+.index-title{
+    color:rgb(0, 0, 0);
 }
 
 .nbMenuItem{               /* navbar link text properties */
@@ -36,7 +48,7 @@
 }
 
 .overview{
-    background-color: #dbe3e7;
+    background-color: #86B6F6;
 }
 
 .ovPadLeft{
@@ -53,7 +65,17 @@
 }
 
 .showcase{
-    background-color: #8fa3ab; /*#0096c7*/
+    background-color: #B4D4FF; /*#0096c7*/
+}
+
+.mane{
+  display: block;
+  width: 70%;
+  margin-left: 15;
+}
+
+.portrait{
+    width:400px;
 }
 
 /* ----------------- ID CSS ----------------- */
