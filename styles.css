@@ -30,12 +30,12 @@
 }
 
 .nb-background-color{   /* navbar background color */
-    background-color: #2e819c;
+    background-color: #2182a5;
 }
 
 
 .nav-link{ /* authors procedure results color */
-    color:rgb(253, 179, 191);
+    color:rgb(0, 0, 0);
 }
 
 .index-title{
@@ -50,8 +50,12 @@
 
 .overview{
     background-color: #B4D4FF; /*#86B6F6*/
+    font-family: Georgia, 'Times New Roman';
 }
 
+.picture-1{
+    width: 650px;
+}
 .ovPadLeft{
     padding-left: 20px;
 }
