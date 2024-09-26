@@ -10,11 +10,11 @@
     display: relative;
 }
 .about-team{
-    color:#B4D4FF;
+    color:#000000;
 }
 
 .authors{
-    background-color: #6A9AB0;
+    background-color: #62b1d6;
 }
 
 .body{
@@ -30,11 +30,12 @@
 }
 
 .nb-background-color{   /* navbar background color */
-    background-color: #176B87;
+    background-color: #2e819c;
 }
 
+
 .nav-link{ /* authors procedure results color */
-    color:#FFECD1;
+    color:rgb(253, 179, 191);
 }
 
 .index-title{
