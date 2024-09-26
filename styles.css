@@ -1,4 +1,5 @@
 /* ----------------- Class CSS ----------------- */
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wdth,wght@93.2,500&display=swap');
 
 .about{
     width:400px;
@@ -33,6 +34,9 @@
     background-color: #2182a5;
 }
 
+.picture-1{
+    height:300px;
+}
 
 .nav-link{ /* authors procedure results color */
     color:rgb(0, 0, 0);
@@ -50,12 +54,9 @@
 
 .overview{
     background-color: #B4D4FF; /*#86B6F6*/
-    font-family: Georgia, 'Times New Roman';
+    font-family: Fredoka;
 }
 
-.picture-1{
-    width: 650px;
-}
 .ovPadLeft{
     padding-left: 20px;
 }
