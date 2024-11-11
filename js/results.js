@@ -2,7 +2,7 @@
 Temperature values are differences from the mean of 14*/
  
 async function getData() {
-    const response = await fetch("../data/dimple-measurment.csv"); // move up two folders
+    const response = await fetch("data/dimple-measurment.csv"); // move up two folders
     const data = await response.text();
    
     const xTrials = []; // x-axis labels
