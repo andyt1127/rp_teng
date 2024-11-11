@@ -95,7 +95,7 @@ async function getData() {
           y: {
             title: {
               display: true,
-              text: "Helmet Drag Coefficient", // y-axis title
+              text: "Helmet Drag Coefficient (no units)", // y-axis title
               font: {
                 size: 14,
               },
